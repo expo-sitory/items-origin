@@ -1,2 +1,7 @@
-# items-origin
-A Lightweight Paper/Bukkit minecraft plugin that  that tracks which player originally obtained or crafted tools and armor.
+# ItemsOrigin
+
+## What's it do?
+
+- Tracks the origin player for tools and weapons
+- Leaves a mark of the player when the item is held
+- Lore Format - Origin: %username% 
